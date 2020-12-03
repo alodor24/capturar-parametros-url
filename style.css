@@ -1,0 +1,21 @@
+.card {
+    display: none;
+}
+
+.card-yellow {
+    background-color: yellow;
+    height: 200px; 
+    margin: 15px 0;
+}
+
+.card-blue {
+    background-color: blue;
+    height: 200px; 
+    margin: 15px 0;
+}
+
+.card-red {
+    background-color: red;
+    height: 200px; 
+    margin: 15px 0;
+}
